@@ -14,3 +14,7 @@ Give it two 4-bit inputs and it will give you a 4-bit output.
 ## How to test
 
 Pending...
+
+## External hardware
+
+Pending...
